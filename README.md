@@ -1,1 +1,1 @@
-<h1>👋 Hi, I'm Mathias Voie</h1>
+<h3>👋 Hey, I'm Mathias Voie</h3>
