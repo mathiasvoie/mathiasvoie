@@ -18,4 +18,4 @@ When I’m not working at Iris Salten, you’ll most likely find me immersed in 
 
 <br>
 
-If you want to learn more check out my [Github](https://github.com/mathiasvoie) or send me an email at `mvoiej@outlook.com`!
+If you want to learn more check out my [Github](https://github.com/mathiasvoie?tab=repositories) or send me an email at `mvoiej@outlook.com`!
