@@ -8,7 +8,7 @@ I’m a passionate developer from Norway, and my journey in development began in
 <br>
 
 <p>
-Currently, I’m working as a Junior Developer at <a href="https://iris-salten.no/">Iris Salten</a>, where I contribute to building effective digital tools designed to make everyday tasks easier and more efficient for employees. Our solutions not only streamline workflows within the organization but, on occasion, also provide valuable services to third parties, helping them work smarter and achieve better results.
+Currently, I’m working as a Junior Developer at <a target="_blank" href="https://iris-salten.no/">Iris Salten</a>, where I contribute to building effective digital tools designed to make everyday tasks easier and more efficient for employees. Our solutions not only streamline workflows within the organization but, on occasion, also provide valuable services to third parties, helping them work smarter and achieve better results.
 </p>
 
 <br>
