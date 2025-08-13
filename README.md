@@ -1,4 +1,4 @@
-<h2>Hi, I'm Mathias! 👋</h2>
+<h2>Hey, I'm Mathias! 👋</h2>
 
 <p>
 I’m a passionate developer from Norway, and my journey in development began in 2016. I have a strong interest in creating useful, engaging, and well-crafted software. At the moment, I spend much of my time working with React, TypeScript, and Lua, building everything from web applications to game-related tools. Every now and then, I also enjoy developing custom resources for FiveM, combining creativity with technical problem-solving to enhance the gaming experience for players.
